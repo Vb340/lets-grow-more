@@ -1,0 +1,39 @@
+ html, body {
+    width: 50%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(133, 6, 6);
+    background-color: rgb(145, 127, 161);
+}
+
+.container {
+    width: 360px;
+}
+
+#inputField {
+    width: 300px;
+    height: 46px;
+    border-width: 0;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+}
+
+#addtodo {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.paragraph-styling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.todos {
+    margin-top: 25px;
+}
